@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://chukwudiodoh.netlify.app/](https://chukwudiodoh.netlify.app/)
 
-- 💬 Ask me about **MongoDB, Express, ReactJS, NextJS NodeJS or any tech related stuff**
+- 💬 Ask me about **MongoDB, Express, ReactJS, NextJS, NodeJS or any tech related stuff**
 
 - 📫 How to reach me **chukwudiodoh64@gmail.com**
 
