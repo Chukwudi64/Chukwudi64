@@ -1,29 +1,91 @@
-![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
-<h1 align="center">Hi 👋, I'm Chukwudi Odoh</h1>
-<h3 align="center">A react.js developer, next.js developer and node.js developer</h3>
-<h3 align="left">About me:</h3>
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1UWODyg6SeDvTgdEUB0XHyTanlnqgjT9k_HYA9uzEGA&s"> 
+# Hi, I'm Chukwudi Odoh 👋
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=chukwudi64&label=Profile%20views&color=0e75b6&style=flat" alt="chukwudi64" /> </p> -->
+### Full Stack Engineer | Frontend Engineer | Backend Engineer | React | TypeScript | Next.js | Node.js
 
-- 👨‍💻 All of my projects are available at [https://chukwudiodoh.netlify.app/](https://chukwudiodoh.netlify.app/)
+I'm a Full Stack Engineer with 4 years of professional software development experience, with strong Frontend specialization in React, TypeScript, and Next.js, building responsive and maintainable web applications.
 
-- 💬 Ask me about **MongoDB, Express, ReactJS, NextJS, NodeJS or any tech related stuff**
+My primary focus is React, TypeScript, Next.js, API integration, reusable component architecture, and frontend performance. I also have full-stack development experience with Node.js, Express.js, REST APIs, and MongoDB.
 
-- 📫 How to reach me **chukwudiodoh64@gmail.com**
+I've worked on applications across HealthTech, FinTech, ERP, and EdTech, building features such as telemedicine, real-time communication, payment workflows, appointment booking, dashboards, authentication, and data-driven interfaces.
 
-- ⚡ Fun fact **I am funny**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/chukwudiodoh/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chukwudiodoh/" height="30" width="40" /></a>
-</p>
+## 🛠️ Technologies & Tools
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://nextjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="next.js" width="40" height="40"/> </a> </p>
+### Frontend
 
-<p><img align="left" src="https://github-readme-stats-rouge-six-31.vercel.app/api/top-langs?username=chukwudi64&show_icons=true&locale=en&layout=compact" alt="chukwudi64" /></p>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-rouge-six-31.vercel.app/api?username=chukwudi64&show_icons=true&locale=en" alt="chukwudi64" /></p>
+### UI & Styling
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chukwudi64&" alt="chukwudi64" /></p>
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Shadcn UI](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+
+### State & Data
+
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Services & Tools
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 🚀 What I Build
+
+- Responsive and accessible web applications
+- Reusable React component systems
+- Type-safe frontend applications with TypeScript
+- REST API integrations
+- Authentication and authorization workflows
+- Data-driven dashboards and business applications
+- Payment and transaction interfaces
+- Appointment and booking workflows
+- Real-time communication features
+- Performance-optimized React applications
+- Full-stack applications using React and Node.js
+
+---
+
+# 📚 Engineering Interests
+
+I'm particularly interested in:
+
+- Frontend architecture
+- Design systems
+- Performance optimization
+- Developer experience
+- API-driven applications
+- Scalable React applications
+- Full-stack JavaScript/TypeScript development
+- Building products that solve real business problems
+
+---
+
+# 🤝 Let's Connect
+
+I'm open to Frontend Engineer, Backend Engineer and Full-Stack Engineer opportunities, including remote, hybrid, and onsite roles.
+
+- 💼 LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/chukwudiodoh/)
+- 🌐 Portfolio: [chukwudiodoh.netlify.app](https://chukwudiodoh.netlify.app/)
+- 📧 Email: chukwudiodoh64@gmail.com
+
+---
+
+⭐ If you find one of my projects useful or interesting, feel free to explore the repository and leave feedback.
