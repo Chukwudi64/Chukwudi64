@@ -6,7 +6,7 @@ I'm a Full Stack Engineer with 4 years of professional software development expe
 
 My primary focus is React, TypeScript, Next.js, API integration, reusable component architecture, and frontend performance. I also have full-stack development experience with Node.js, Express.js, REST APIs, and MongoDB.
 
-I've worked on applications across HealthTech, FinTech, ERP, and EdTech, building features such as telemedicine, real-time communication, payment workflows, appointment booking, dashboards, authentication, and data-driven interfaces.
+I have worked on applications across HealthTech, FinTech, ERP, and EdTech, building features such as telemedicine, real-time communication, payment workflows, appointment booking, dashboards, authentication, and data-driven interfaces.
 
 ---
 
